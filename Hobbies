@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Hobbies</title>
+    </head>
+    <!--This is for creating a table and inserting a text inside it with image -->
+    <body background="C:\Users\omg\Downloads\1.jpg">  
+        <table border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="white">
+            <td>
+                <font face="Times new roman" color="blue" size="5" align="center">
+                    <h2>My Hobbies</h2>
+                </font>
+            </td>
+        </table>     
+                <marquee color="red"><h1>Welcome !</h1></marquee>
+            </text>
+            <font face="Times new roman" color="red" size="4" align="center">
+                <h2>Hey, My name is Heemakshi Sharma</h2>
+            </font>  
+            <div>
+                <font size="4" face="Times new roman">   
+                </font>
+                <p>
+            </div>
+            <h3>Do the thing you fear and the death of fear is certain-Well, these are some of the lines which motivate me now and always.<br></h3>
+            <ul><b>
+                <li>The lines are picked up from a certain book I read a way time back. Initially I'm very fond of reading books in my spare time which basically includes novels and non-fictious books at times.</li>
+                <li>I'm also an enthusiast Sports player with my major focus being on Badminton as I've been playing this since class 3 and I've ended up representing my school at various inter-school and intra-school competitions and was able to make till the district level at a pretty young age.</li>
+                <li>I'm more of an introvert nature which makes me spend most of my time on my own and i end up liking my own company the most and read about different people and things and explore the world around me.</li>
+                <li>I'm not a movie/ web-series type of person who would end up watching them rather I'd like to read the stories based on them or stories on them.</li>
+            </ul></b>
+        </p>
+    </body>
+</html>
