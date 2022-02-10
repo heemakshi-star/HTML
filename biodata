@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+
+<head>
+    <title> biodata </title>
+</head>
+
+<body>
+
+    <body bgcolor="Pink" , text="red"></body>
+    <!--Biodata using the different predefined tags-->
+    <center><u>
+            <h2>Self Introduction
+        </u></h2>
+    </center>
+    <h5><i>Hello</i></h5>
+    My name is <b> Heemakshi Sharma</b> <br>
+    I'm From Gurugram, Haryana <br>
+    I'm pursuing my B.tech from Amity University, Haryana <br>
+    I completed my schooling from Army Public School, Dhaula Kuan, New Delhi<br>
+    I like <em>Coding</em> and I'm pursuing my B.Tech in Computer Science Engineering<br>
+    I'm a Sports enthusiast and most of all I love playing Badminton and have represented my School and have also been
+    till the district level Badminton matches.
+    <h5>Thank You !</h5>
+    <!--use of prexfix and postfix tags-->
+    A<sub>4</sub> <br>
+    B<sup>2</sup>
+    <marquee> <strong>Have a Nice Day </strong></marquee>
+    
+    <hr color="black" , width="50%">
+</body>
+
+</html>
