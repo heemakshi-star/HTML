@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home-BLUE PINE</title>
+    </head>
+    <link href="intern.css" rel="stylesheet" type="text/css">
+    <body>
+<header> 
+    <div class="row">
+        <div class="logo">
+            <img src="C:\Users\omg\Downloads\logo.jpg">
+        </div>
+        <ul class="main-nav">
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">SERVICES</a></li>
+            <li><a href="">CONTACT</a></li>
+            <li><a href="">PRICE PLAN</a></li>
+            <li><a href="">FAQ</a></li>
+        </ul>
+
+    </div>
+</header>
+    </body>
+</html>
