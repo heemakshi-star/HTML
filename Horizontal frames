@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Frames</title>
+</head>
+<frameset rows="33% , 34% , 33%">
+    <frame name="top" src="biodata.html" />
+    <frame name="center" src="CV.html" />
+    <frame name="bottom" src="hobbies.html" />
+
+    <noframes>
+
+        <body>
+            Sorry !! your browser does not support frames
+        </body>
+    </noframes>
+</frameset>
+
+</html>
