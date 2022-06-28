@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Implementation of Unordered List
+        </title>
+    </head>
+    <body bgcolor="black" text="white">
+        <dl>
+            <dt>Heemakshi Sharma :</dt>
+            <dd>Undergraduate Student</dd>
+            <dd>Amity University, Haryana</dd>
+            <dd>B.Tech-CSE</dd>
+            <dd>Enrollment Number: A50105220050</dd>
+            <dd>Section : B</dd>
+            <dd>Group 1</dd>
+        </dl>
+    </body>
+</html>
