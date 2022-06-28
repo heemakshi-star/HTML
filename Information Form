@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Information Form</title>
+</head>
+
+<body>
+    <form>
+        Name: <input type="text" name="name" />
+        <br><br>
+        Roll No. : <input type="text" name="Roll Number" />
+        <br><br>
+        Course: <select name="dropdown">
+            <option value="B.Tech" selected>B.Tech </option>
+            <option value="BCA">BCA </option>
+            <option value="BBA">BBA </option>
+            <option value="MBA">MBA </option>
+        </select>
+        <br><br>
+        Semester: <select name="dropdown">
+            <option value="1" selected>1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+        <br><br>
+        Contact: <input type="text" name="name" />
+        <br><br>
+        E-Mail: <input type="text" name="name" />
+        <br><br>
+        CE Subject: <br><br> <input type="radio" name="subject" value="WDT">WDT
+        <input type="radio" name="subject" value="ANN">ANN
+        <input type="radio" name="subject" value="AI">AI
+        <input type="radio" name="subject" value="Fuzzy">Fuzzy
+        <br><br>
+        <input type="button" value="Reset">
+        <input type="Submit" value="Submit">
+    </form>
+</body>
+
+</html>
